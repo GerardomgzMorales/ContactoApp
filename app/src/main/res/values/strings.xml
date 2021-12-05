@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contacto App</string>
+    <string name="nombre">Nombre...</string>
+    <string name="telefono">Telefono...</string>
+    <string name="guardar">Guardar</string>
+    <string name="textview">TextView</string>
+    <string name="correo">Correo...</string>
+    <string name="contactos">Contactos</string>
+    <string name="mensajeToast">Nombre, correo o numero telefónico es invalido, favor de revisar. </string>
+</resources>
